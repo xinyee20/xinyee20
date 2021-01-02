@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub Profile! I am Xin Yee, a student who likes to explore and figure things out😄
-🌱 I’m currently studying Computer Science at National University of Singapore (NUS).
-🔭 I’m currently using GitHub for school projects and hopefully interesting personal projects in time to come!
+##### Welcome to my GitHub Profile! I am Xin Yee, a student who likes to explore and figure things out😄
+###### 🌱 I’m currently studying Computer Science at National University of Singapore (NUS).
+###### 🔭 I’m currently using GitHub for school projects and hopefully interesting personal projects in time to come!
 
 <!--
 **xinyee20/xinyee20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
