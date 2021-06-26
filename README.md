@@ -5,7 +5,7 @@
 ###### 🔭 I’m currently using GitHub for school projects and hopefully interesting personal projects in time to come!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyee20&show_icons=true&theme=gruvbox)
-)](https://github.com/xinyee20/github-readme-stats)
+](https://github.com/xinyee20/github-readme-stats)
 
 
 <!--
