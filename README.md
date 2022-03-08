@@ -6,7 +6,7 @@
 ###### 👾 Personal Game Project: [play](https://xinyee20.github.io/PingPong/) Ping Pong
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyee20&show_icons=true&theme=gruvbox)
+[![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=xinyee20&show_icons=true&theme=gruvbox)
 ](https://github.com/xinyee20/github-readme-stats)
 
 
